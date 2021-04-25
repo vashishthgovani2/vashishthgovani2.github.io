@@ -1,0 +1,18 @@
+/* Style the body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.home {
+  padding: 10px;
+  text-align: center;
+  background: #FF69B4;
+  color: black;
+}
+
+/* Increase the font size of the heading */
+.home	 h1 {
+  font-size: 40px;
+}
